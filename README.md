@@ -1,2 +1,2 @@
 # Shradha-ProductRecommendationSystem
-My minor project 
+My minor project, Author-Shradha Sahay
